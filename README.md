@@ -31,6 +31,7 @@ The knowledge graph is created from data obtained from abstracts of HVAC patents
 - The knowledge graph is available in csv form as knowledge_graph.csv
 - The patents_knowledge_graph.png can be viewed for visualizing the graph
 - The RAG based chatbot is included in the notebook all_other_code.ipynb
+- Examples of queries and responses are uploaded as example.png 
 
 ## Dependencies/built with
 - py2neo
