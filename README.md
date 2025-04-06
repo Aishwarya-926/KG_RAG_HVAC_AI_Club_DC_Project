@@ -3,7 +3,7 @@ This repository contains the project work done by Aishwarya Ajit Abhyankar durin
 # 🧠 Neo4j + Ollama RAG Chatbot
 
 This project connects a Neo4j knowledge graph with a local CPU-friendly LLM (like Mistral via Ollama) to answer natural language queries using Retrieval-Augmented Generation (RAG).
-The knowledge graph is created from data obtained from abstracts of HVAC patents on https://patents.justia.com.
+The knowledge graph is created from data obtained from abstracts of HVAC(Heating, Ventilation, Air Conditioning) patents on https://patents.justia.com.
 
 ## Inspiration 
 
